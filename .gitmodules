@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/schmidigital/angular2-sails-boilerplate-backend
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/schmidigital/angular2-sails-boilerplate-frontend
