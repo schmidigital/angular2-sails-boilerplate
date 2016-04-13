@@ -7,7 +7,7 @@
   "devDependencies": {},
   "scripts": { 
       "install": "git submodule update --init --recursive && cd backend && npm install && cd ../frontend && npm install",
-      "start": "(cd backend && sails lift) & (cd frontend && npm start)",
+      "start": "(cd backend && sails lift) & (cd frontend && gulp)",
       "test": "cd backend && mocha"
   },
   "repository": {
