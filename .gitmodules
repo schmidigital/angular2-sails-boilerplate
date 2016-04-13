@@ -1,6 +1,6 @@
 [submodule "backend"]
 	path = backend
-	url = https://github.com/schmidigital/angular2-sails-boilerplate-backend
+	url = ssh://git@git.schmidigital.de:7999/schmid/angular2-sails-boilerplate-backend
 [submodule "frontend"]
 	path = frontend
-	url = https://github.com/schmidigital/angular2-sails-boilerplate-frontend
+	url = ssh://git@git.schmidigital.de:7999/schmid/angular2-sails-boilerplate-frontend
